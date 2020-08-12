@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YX计算器", "YX计算器\YX计算器.csproj", "{B971E31C-34FD-427F-B034-7397D78E7053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B971E31C-34FD-427F-B034-7397D78E7053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B971E31C-34FD-427F-B034-7397D78E7053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B971E31C-34FD-427F-B034-7397D78E7053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B971E31C-34FD-427F-B034-7397D78E7053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F46B300A-6303-45E9-B2BF-6EFA76F83B15}
+	EndGlobalSection
+EndGlobal
